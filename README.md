@@ -21,7 +21,7 @@ Following image options are available
 
 Purple logo
 
-[alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-fi-purple-small.png "FI")
+![alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-fi-purple-small.png "FI")
 
 [alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-en-purple-small.png "EN")
 

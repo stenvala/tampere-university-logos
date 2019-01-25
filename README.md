@@ -1,4 +1,7 @@
-# tampere-university-logos
+# Logos of new Tampere University
+
+**Disclaimer!** This is not official source for the logos of Tampere University! There is no guarantee that the logos fulfil the official specification described in the graphical guidelines. Therefore, use on your own responsibility.
+
 This project includes logos and slogans for new Tampere University as images.
 
 Also source codes for creating these are included.

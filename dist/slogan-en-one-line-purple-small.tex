@@ -1,0 +1,47 @@
+% ------------------ %
+% Slogan of Tampere University
+% Created by Antti Stenvall
+% ------------------ %
+
+\documentclass[border=0pt]{standalone}
+
+\usepackage[utf8]{inputenc}
+\usepackage{color}
+\usepackage{xcolor}
+%option: inverted-with-bg% \usepackage{pagecolor}
+\usepackage{graphicx}
+
+\usepackage{microtype} % This is for making the slogan more dense
+
+\usepackage[default,osfigures,scale=0.95]{opensans} % TUNI font
+
+
+
+% purple
+\definecolor{myPurple}{RGB}{78,0,142}
+\definecolor{main}{RGB}{78,0,142}
+
+%option: inverted-with-bg% \pagecolor{myPurple}
+
+% white
+%option: inverted|inverted-with-bg% \definecolor{main}{RGB}{255,255,255}
+
+\renewcommand{\arraystretch}{0.3}
+\newcommand{\word}[1]{
+	\textls[-60]{
+		{\bf{\Huge\color{main}{#1}}}
+	} 
+}
+
+\begin{document}
+	\scalebox{
+		0.2
+	}{		
+		\begin{tabular}{@{}l@{}}
+			\word{Human}\hspace*{-2.5mm}\word{Potential}\hspace*{-2.5mm}\word{Unlimited.}
+			%option: en-table% \word{Human}\\\word{Potential}\\\word{Unlimited.}
+			%option: fi-one-line% \word{Ihminen}\hspace*{-2.5mm}\word{ratkaisee.}
+			%option: fi-table% \word{Ihminen}\\\word{ratkaisee.}
+		\end{tabular}
+	}
+\end{document}

@@ -23,15 +23,15 @@ Purple logo
 
 ![alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-fi-purple-small.png "FI")
 
-[alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-en-purple-small.png "EN")
+![alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-en-purple-small.png "EN")
 
-[alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-fi-en-purple-small.png "FI and EN")
+![alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-fi-en-purple-small.png "FI and EN")
 
 
 Inverted logo with background (there is also one with without the purple background, but not shown here)
 
-[alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-fi-inverted-with-bg-small.png "FI")
+![alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-fi-inverted-with-bg-small.png "FI")
 
-[alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-en-inverted-with-bg-small.png "EN")
+![alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-en-inverted-with-bg-small.png "EN")
 
-[alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-fi-en-inverted-with-bg-small.png "FI and EN")
+![alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/logo-fi-en-inverted-with-bg-small.png "FI and EN")

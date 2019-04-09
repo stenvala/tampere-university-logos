@@ -1,0 +1,23 @@
+% frames from left to right
+\psframe[fillstyle=solid,fillcolor=main,linecolor=main,linewidth=0pt](-4.6,0)(-4.2,1)
+\psframe[fillstyle=solid,fillcolor=main,linecolor=main,linewidth=0pt](-3.8,0)(-2.8,0.4)
+\pspolygon[fillstyle=solid,fillcolor=main,linecolor=main,linewidth=0pt](-2.4,0.4)(-1,0.4)(-1,0)(-2,0)(-2,-1.4)(-2.4,-1.4)
+\psframe[fillstyle=solid,fillcolor=main,linecolor=main,linewidth=0pt](-0.6,0.4)(-0.2,-0.8)			
+
+% arcs
+
+% left
+\pscustom[fillstyle=solid,fillcolor=main,linecolor=main,linewidth=0pt]{
+	\psarc(-2.4,1){1.8}{102.84}{180} % acos (2/9) / 2 / pi * 360
+	\psline(-4.2,1)(-4.6,1)
+	\psarcn(-2.4,1){2.2}{180}{100.46} % acos (2/11) / 2 / pi * 360
+	\closepath
+}
+
+% right
+\pscustom[fillstyle=solid,fillcolor=main,linecolor=main,linewidth=0pt]{
+	\psarc(-2.4,-.8){1.8}{-90}{0}
+	\psline(-0.6,-.8)(-0.2,0.4)
+	\psarcn(-2.4,-.8){2.2}{0}{-90}
+	\closepath
+}	

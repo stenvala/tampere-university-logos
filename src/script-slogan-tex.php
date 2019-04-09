@@ -22,7 +22,7 @@ $createTex = function ($options, $variables, $filename) use ($c) {
 		$c = preg_Replace('#%option:\s([a-z\-]*\|)*' . $option . '(\|[a-z\-]*)*%\s*#', '', $c);
 	} 
 	foreach ($variables as $key => $value){
-		$c = preg_Replace('#%variable:\s' . $key . '%#', $value, $c);		
+		$c = preg_Replace('#%variable:\s' . $key . '%#', $value, $c);
 	}
 	file_put_contents(__DIR__ . '/../dist/' . $filename . '.tex', $c);
 };

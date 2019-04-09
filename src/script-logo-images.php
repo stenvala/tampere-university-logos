@@ -15,3 +15,11 @@ foreach ($files as $key => $file){
 	print shell_exec($cmd);	
 
 }
+
+$dir = __DIR__ . '/../img';
+$files = glob($dir . '/logo*.*');
+foreach ($files as $file){	
+	if (preg_match('#(medium|small)\.(pdf|eps)$#', $file, $matches)){
+		unlink($file);
+	}	
+}

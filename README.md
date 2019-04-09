@@ -62,3 +62,9 @@ Inverted slogans
 ![alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/slogan-en-one-line-inverted-with-bg-medium.png "EN LINE")
 
 ![alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/slogan-en-table-inverted-with-bg-medium.png "EN TABLE")
+
+### Plain faces
+
+![alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/face-inverted-with-bg-small.png "FI LINE")
+
+![alt text](https://raw.githubusercontent.com/stenvala/tampere-university-logos/master/img/face-purple-small.png "FI LINE")
